@@ -13,7 +13,6 @@ Estudiante de último semestre de ingeniería electrónica con experiencia en an
 * Telecomunicaciones
 * Machine Learning
 * Programación
-* Educación
 
 ## Proyectos y trabajos realizados en Python
 
@@ -83,17 +82,17 @@ Este proyecto implementa un sistema de clasificación automática de géneros mu
 
 La implementación del proyecto abarca tres fases principales:
 
-1. Procesamiento de Datos
+1.Procesamiento de Datos
 
 * Carga, preprocesamiento y partición de datos con el fin de generar conjuntos de datos de entrenamiento y prueba normalizados y codificados para lograr un correcto entrenamiento del modelo.
 
-2. Desarrollo del Modelo
+2.Desarrollo del Modelo
 
 * Arquitectura de red neuronal optimizada para la clasificación multiclase
 * Implementación de validación cruzada para la selección y ajuste del modelo
 
 
-3. Evaluación y Optimización
+3.Evaluación y Optimización
 
 * Análisis exhaustivo mediante métricas de precisión multiclase
 * Evaluación del rendimiento a través de mapas de calor
