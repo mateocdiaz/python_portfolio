@@ -98,7 +98,7 @@ Carga, preprocesamiento y partición de datos con el fin de generar conjuntos de
 
 El proyecto demuestra la convergencia entre el análisis de datos tradicional y las técnicas modernas de aprendizaje de máquina, proporcionando una solución integral para la clasificación automática de géneros musicales.
 
-
+![ML](https://github.com/user-attachments/assets/6ae37085-f362-4233-bbe6-1a672056c2bc)
 
 * #### Proyecto 4: Estimación de densidades de probabilidad
 Este proyecto se centra en el desarrollo de un modelo estadístico para caracterizar los tiempos de reparación en sistemas de comunicaciones, mediante la estimación de funciones de densidad de probabilidad. La implementación combina análisis estadístico avanzado con técnicas modernas de programación en Python, utilizando un enfoque basado en datos para la optimización de parámetros.
