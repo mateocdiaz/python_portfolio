@@ -17,6 +17,7 @@ Estudiante de último semestre de ingeniería electrónica con experiencia en an
 ## Proyectos y trabajos realizados en Python
 
 * #### Proyecto 1: Juego de plataformas
+
 Videojuego tipo plataformero con estética de 16 Bits implementado haciendo uso de la librería PyGame. El proyecto demuestra la implementación de conceptos fundamentales de programación orientada a objetos, física de juegos y gestión de estados en tiempo real. 
 
 
@@ -40,14 +41,14 @@ Aspectos Técnicos Destacados:
 - Implementación de sistemas críticos para la experiencia de juego:
   - Gestor de animaciones sprite-based
   - Sistema de partículas para efectos visuales
+
+El proyecto ejemplifica la convergencia entre principios de programación orientada a objetos y desarrollo de videojuegos, resultando en una experiencia de juego fluida y técnicamente sofisticada.
   
 ![Gun_game](https://github.com/user-attachments/assets/26a69945-0ed1-4e8c-a288-11fcd5ce11ae)
 
-El proyecto ejemplifica la convergencia entre principios de programación orientada a objetos y desarrollo de videojuegos, resultando en una experiencia de juego fluida y técnicamente sofisticada.
-
-
 
 * #### Proyecto 2: Diseño de antena bicónica de banda ancha
+
 Script enfocado al diseño y validación del diseño de una antena bicónica de banda ancha (simétrica o asimétrica). El proyecto demuestra el manejo de librerías como Scipy para cálculos de polinomios de Legendre y funciones esféricas de Hankel del segudo tipo. De igual forma, presenta el uso de librerías como Pandas y Matplotlib para la carga de datos de simulación y la visualización y comparación de resultados analíticos y simulados.
 
 Este proyecto implementa una herramienta computacional para el diseño y validación de antenas bicónicas de banda ancha, abarcando tanto configuraciones simétricas como asimétricas. El sistema integra métodos electromagnéticos analíticos avanzados con análisis comparativo de resultados de simulación.
@@ -80,9 +81,10 @@ El sistema proporciona una plataforma integral para la validación y optimizaci�
 Este proyecto implementa un sistema de clasificación automática de géneros musicales mediante el entrenamiento de redes neuronales, utilizando una arquitectura desarrollada con Keras y Scikit-learn. El sistema es capaz de categorizar un conjunto de datos en cinco géneros musicales distintos, demostrando la aplicación práctica de técnicas avanzadas de aprendizaje automático.
 
 La implementación del proyecto abarca tres fases principales:
+
 1. Procesamiento de Datos
 
-Carga, preprocesamiento y partición de datos con el fin de generar conjuntos de datos de entrenamiento y prueba normalizados y codificados para lograr un correcto entrenamiento del modelo.
+* Carga, preprocesamiento y partición de datos con el fin de generar conjuntos de datos de entrenamiento y prueba normalizados y codificados para lograr un correcto entrenamiento del modelo.
 
 2. Desarrollo del Modelo
 
@@ -101,6 +103,7 @@ El proyecto demuestra la convergencia entre el análisis de datos tradicional y 
 ![ML](https://github.com/user-attachments/assets/6ae37085-f362-4233-bbe6-1a672056c2bc)
 
 * #### Proyecto 4: Estimación de densidades de probabilidad
+
 Este proyecto se centra en el desarrollo de un modelo estadístico para caracterizar los tiempos de reparación en sistemas de comunicaciones, mediante la estimación de funciones de densidad de probabilidad. La implementación combina análisis estadístico avanzado con técnicas modernas de programación en Python, utilizando un enfoque basado en datos para la optimización de parámetros.
 El núcleo del trabajo reside en la aplicación del método de máxima verosimilitud para la estimación de parámetros de diferentes distribuciones probabilísticas, buscando aquella que mejor se ajuste a los datos observados. La implementación técnica se realiza mediante un stack tecnológico robusto que incluye:
 
