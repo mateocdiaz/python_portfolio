@@ -12,7 +12,8 @@ Estudiante de último semestre de ingeniería electrónica con experiencia en an
 #### Áreas de interés:
 * Telecomunicaciones
 * Machine Learning
-* Programación 
+* Programación
+* Educación
 
 ## Proyectos y trabajos realizados en Python
 
