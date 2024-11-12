@@ -40,8 +40,12 @@ Aspectos Técnicos Destacados:
 - Implementación de sistemas críticos para la experiencia de juego:
   - Gestor de animaciones sprite-based
   - Sistema de partículas para efectos visuales
+  
+![Gun_game](https://github.com/user-attachments/assets/26a69945-0ed1-4e8c-a288-11fcd5ce11ae)
 
 El proyecto ejemplifica la convergencia entre principios de programación orientada a objetos y desarrollo de videojuegos, resultando en una experiencia de juego fluida y técnicamente sofisticada.
+
+
 
 * #### Proyecto 2: Diseño de antena bicónica de banda ancha
 Script enfocado al diseño y validación del diseño de una antena bicónica de banda ancha (simétrica o asimétrica). El proyecto demuestra el manejo de librerías como Scipy para cálculos de polinomios de Legendre y funciones esféricas de Hankel del segudo tipo. De igual forma, presenta el uso de librerías como Pandas y Matplotlib para la carga de datos de simulación y la visualización y comparación de resultados analíticos y simulados.
@@ -69,6 +73,7 @@ La implementación se fundamenta en tres componentes clave:
 
 El sistema proporciona una plataforma integral para la validación y optimización de diseños de antenas bicónicas, combinando rigor matemático con análisis práctico de resultados.
 
+![TEM](https://github.com/user-attachments/assets/3687dabb-be99-4ccb-83e7-edf249cd81d2)
   
 * #### Proyecto 3: Clasificador multiclase con redes neuronales
 
@@ -92,7 +97,9 @@ Carga, preprocesamiento y partición de datos con el fin de generar conjuntos de
 * Optimización iterativa basada en resultados de validación
 
 El proyecto demuestra la convergencia entre el análisis de datos tradicional y las técnicas modernas de aprendizaje de máquina, proporcionando una solución integral para la clasificación automática de géneros musicales.
-  
+
+
+
 * #### Proyecto 4: Estimación de densidades de probabilidad
 Este proyecto se centra en el desarrollo de un modelo estadístico para caracterizar los tiempos de reparación en sistemas de comunicaciones, mediante la estimación de funciones de densidad de probabilidad. La implementación combina análisis estadístico avanzado con técnicas modernas de programación en Python, utilizando un enfoque basado en datos para la optimización de parámetros.
 El núcleo del trabajo reside en la aplicación del método de máxima verosimilitud para la estimación de parámetros de diferentes distribuciones probabilísticas, buscando aquella que mejor se ajuste a los datos observados. La implementación técnica se realiza mediante un stack tecnológico robusto que incluye:
@@ -102,3 +109,5 @@ El núcleo del trabajo reside en la aplicación del método de máxima verosimil
 * SciPy: Para la implementación de algoritmos de optimización en la estimación de parámetros por máxima verosimilitud
 
 El proyecto demuestra la convergencia entre teoría estadística y aplicación práctica, proporcionando una herramienta robusta para el análisis de confiabilidad en sistemas de comunicaciones.
+
+![Estocasticos](https://github.com/user-attachments/assets/7d7e7d8a-ad69-4306-aecd-6d8b5f2da2db)
